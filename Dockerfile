@@ -1,4 +1,4 @@
-FROM debian:jessie:latest
+FROM debian:jessie
 
 MAINTAINER Darksheer
 
